@@ -2,7 +2,7 @@
 🚀 Passionate about DSA and Web Development  
 
 ## 🌐 Profiles
-- [LeetCode]([https://leetcode.com/VivekPatil001])
+- [LeetCode](https://leetcode.com/VivekPatil001)
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vivek13p9q8)
 
 ## 🏆 DSA Achievements
