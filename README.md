@@ -3,7 +3,7 @@
 
 ## 🌐 Profiles
 - [LeetCode]([https://leetcode.com/VivekPatil001])
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YOUR_USERNAME)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/vivek13p9q8)
 
 ## 🏆 DSA Achievements
 - ⭐ Solved 500+ problems
